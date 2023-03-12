@@ -41,7 +41,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero-desk.jpg);
+      url(../Images/hero-desk.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
@@ -54,7 +54,7 @@
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/hero-desk-2x.jpg);
+        url(../Images/hero-desk-2x.jpg);
     }
   }
   .hero-title {

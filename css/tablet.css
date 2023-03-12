@@ -38,7 +38,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero-tab.jpg);
+      url(../Images/hero-tab.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
@@ -51,7 +51,7 @@
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/hero-tab-2x.jpg);
+        url(../Images/hero-tab-2x.jpg);
     }
   }
   .hero-title {
