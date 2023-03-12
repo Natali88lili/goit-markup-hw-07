@@ -180,7 +180,7 @@ body {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/hero-mob.jpg);
+    url(../Images/hero-mob.jpg);
   background-repeat: no-repeat;
   background-position: center;
   /* background-size: 100%; */
@@ -193,7 +193,7 @@ body {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero-mob-2x.jpg);
+      url(../Images/hero-mob-2x.jpg);
   }
 }
 .hero {
@@ -761,7 +761,7 @@ body {
   background-color: var(--ocean);
   border: none;
   border-radius: 2px;
-  background-image: url(../images/check.svg);
+  background-image: url(../Images/check.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
