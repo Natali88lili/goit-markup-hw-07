@@ -51,6 +51,3 @@
       body.classList.remove('no-scroll');
   });
 })();
-
-
-
