@@ -90,4 +90,15 @@
     padding-top: 96px;
     padding-bottom: 96px;
   }
+  .icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+.icon-Vector {
+  width: 1.45em;
+}
 }
